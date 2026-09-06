@@ -429,7 +429,7 @@
     "d": "Painting work at two RUSD sites (Taft and Liberty). District soliciting a direct prime contract, not a subcontract, so a single-trade painting scope is biddable by carrying a licensed C-33 under &sect;7057(b) &mdash; provided the district's own licence line names B or just a valid CA contractor's licence. The listing still does not surface a licence line or pre-bid date after three scans &mdash; RUSD's bid portal (webapps.riversideunified.org, pqbids.com/riverside, californiabids.com &mdash; the last now also robots-blocked) remains fully JS/access-gated. Call RUSD Purchasing, (951) 352-6729 x82601, to confirm before committing time."
   },
   {
-    "t": "watch",
+    "t": "blocked",
     "r": 43,
     "n": "Brockton 1st Floor Remodel (Bid ID 618, Project 2026/27-01)",
     "a": "Riverside Unified School District",
@@ -437,7 +437,7 @@
     "val": "$900,000",
     "trade": "Multi-trade interior remodel",
     "u": "https://webapps.riversideunified.org/apps/planholdersregistration/BidsSelect.aspx",
-    "d": "First-floor interior remodel at RUSD's Brockton site &mdash; a genuine multi-trade fit on its face, right size, school district. Neither the licence line nor the scope detail has surfaced through several scans of the aggregator; RUSD's own portal remains fully access-gated. <b>Runway is critical &mdash; due Tuesday 9/8</b> &mdash; call RUSD Purchasing, (951) 352-6729 x82601, today."
+    "d": "<b>Off the live list on filter 8 — runway has dropped under 3 business days.</b> Due Tuesday 9/8; as of this scan (Sunday 9/6) that is only Monday and Tuesday, not enough runway to responsibly price a $900,000 multi-trade interior remodel sight-unseen, especially with the license line and scope detail still unconfirmed after several scans (RUSD's own portal remains fully access-gated). Call RUSD Purchasing, (951) 352-6729 x82601, only if there is real interest in a rebid — otherwise let this one go."
   },
   {
     "t": "watch",
@@ -616,7 +616,7 @@
     "d": "Basement renovation at the Montebello Senior Center, 115 S. Taylor Ave &mdash; a genuine renovation/TI shape, right in MPX's top-ranked category if the license clears. Good runway: bids due 7 October, 11:00 AM, questions due 28 September. Mandatory pre-bid 23 September, 10:00 AM &mdash; has not yet passed. The license line could not be read on the public page &mdash; call Montebello Purchasing before the 23 September walk, the same call that resolves the closed r7 (Montebello Demolition/Grading, 26-15) on this board. A DBE/HUB Good Faith Effort outreach requirement applies."
   },
   {
-    "t": "watch",
+    "t": "blocked",
     "r": 59,
     "n": "Carpet Installation at La Sierra Library and Arlanza Library",
     "a": "City of Riverside",
@@ -624,7 +624,7 @@
     "val": "Not disclosed; two branch libraries",
     "trade": "Flooring replacement &mdash; single-trade prime, subbed to a C-15",
     "u": "https://www.constructionbidsource.com/state/california/county/riverside/839278",
-    "d": "Remove and install new carpet at two City of Riverside branch libraries (Bid #839278, Owner Ref 8280, bonds + DBE/HUB Good Faith Effort required). As a direct City prime solicitation, single-trade flooring work is biddable under &sect;7057(b) by carrying a licensed C-15 &mdash; but only if the City's own license line accepts B or a general CA license rather than naming C-15 only, and that line remains unconfirmed (City of Riverside's PlanetBids portal 39475 is a JS shell). <b>Due TODAY, 9/4</b> &mdash; call City of Riverside Purchasing immediately or drop it."
+    "d": "<b>Off the live list — the 9/4 due date has passed.</b> City of Riverside branch-library flooring replacement (Bid #839278). The license line was never confirmed (City of Riverside's PlanetBids portal remained a JS shell across every scan), and now the deadline has passed regardless. If a bid went in, call City of Riverside Purchasing to track the award; otherwise closed."
   },
   {
     "t": "watch",
@@ -638,7 +638,7 @@
     "d": "Replace an existing steel access platform on a water tank with a new grated aluminum platform, new guardrails, self-closing gate, extend the roof hatch, and replace the interior ladder. Optional pre-bid encouraged 9/22 &mdash; not yet occurred, doesn't block a bid either way. <b>Agency attribution conflict, unresolved across multiple scans:</b> this board carries it under Helix Water District; the aggregator listings page has flip-flopped attributing it to the City of El Cajon, but the individual listing's own detail page still reads &quot;Helix Water District&quot;. Helix's own bid page (hwd.com/Bids.aspx) continues to show no open postings and doesn't list this project at all. <b>The licence line is still not stated on the accessible posting.</b> This sits right at the Class A/reservoir boundary the filters flag, but the described scope reads as discrete access/structural work on an existing tank rather than reservoir construction itself. One call should resolve the agency, the license line, and live/dead status together &mdash; confirm before spending further bid costs."
   },
   {
-    "t": "go",
+    "t": "blocked",
     "r": 23.5,
     "n": "RFQ 26 ANF Oak Flats HVAC System Replacement",
     "a": "USDA Forest Service, Angeles National Forest (Los Angeles County)",
@@ -646,7 +646,7 @@
     "val": "Not disclosed; single-building HVAC replacement, 63-calendar-day duration, reads well under $5M",
     "trade": "HVAC system replacement (NAICS 238220) &mdash; single-trade prime, subbed to a C-20",
     "u": "https://www.constructionbidsource.com/state/california/county/los-angeles/840598",
-    "d": "Federal, place of performance in LA County. Total Small Business set-aside, NOT SDVOSB-restricted, so MPX qualifies. Federal solicitations don't name a CSLB classification: NAICS 238220 is the correct target industry code, and as prime this single-trade HVAC scope is biddable by subbing the mechanical work to a licensed C-20 under &sect;7057(b). <b>Due TODAY, 9/4</b> &mdash; a same-day go/no-go, not a lead to develop. No mandatory site-visit language found on the readable listing, but SAM.gov itself would not render for direct confirmation (recurring failure mode). Call the Angeles National Forest contracting office today to confirm whether a site visit is required before committing; Forest Service land also means a real access/security-clearance variable for the crew."
+    "d": "<b>Off the live list — the 9/4 due date has passed with no record of a same-day submission.</b> This was a same-day go/no-go federal HVAC replacement (NAICS 238220) at Angeles National Forest, Total Small Business set-aside. If MPX called the Angeles NF contracting office and submitted on 9/4, track the award; otherwise treat as closed. Kept here for the record."
   },
   {
     "t": "blocked",
@@ -726,7 +726,7 @@
     "d": "The 3 September, 9:00 AM walk is Optional (Encouraged), not mandatory, so nothing on the calendar blocks a bid. Demolition of athletic score/storage buildings, backstops, fencing, concrete and asphalt walkways at 16949 Wedgeworth Dr., Hacienda Heights; questions due 9/8, bid due 9/14. License classification is still not stated on the listing (only &quot;Bonds required. Prevailing wages.&quot;) &mdash; that remains the one open item. Scope (structure/backstop/fence/flatwork demolition) doesn't read as a single-C-only package, so MPX likely clears as a B prime subcontracting the demo, but call HLPUSD to confirm the license line before pricing."
   },
   {
-    "t": "watch",
+    "t": "blocked",
     "r": 80,
     "n": "Westwood Center Elevator Modernization (943903.01)",
     "a": "UCLA (Los Angeles County)",
@@ -734,7 +734,7 @@
     "val": "Up to $1,857,000",
     "trade": "Elevator modernization &mdash; upgrade three traction and two hydraulic elevators; single-trade prime, subbed to a C-11",
     "u": "https://login.onlineplanservice.com/ca/projects/preview/westwood-center-elevator-modernization-los-angeles-5902062spos",
-    "d": "UC state-agency capital project, in-county, right size, and the same single-trade-elevator-prime-via-&sect;7057(b) shape already validated on this board at the West Basin MWD elevator row (r55) &mdash; reasonable to expect a similar B-acceptable license line, but NOT yet confirmed on this listing. A pre-bid conference is referenced but neither its date nor mandatory/optional status could be confirmed. <b>Runway is thin &mdash; due Tuesday 9/8, four business days out.</b> Call UCLA Capital Programs today to confirm license class and pre-bid status before treating this as more than a lead."
+    "d": "<b>Off the live list on filter 8 — runway has dropped under 3 business days.</b> Due Tuesday 9/8; as of this scan (Sunday 9/6) only Monday and Tuesday remain. The single-trade-elevator-prime shape (subbed to a C-11 under &sect;7057(b)) was promising and matches the West Basin MWD elevator row already on this board, but neither the license line nor the pre-bid status was ever confirmed, and there is no longer enough runway to chase both down and price it responsibly. Watch for a UCLA recompete of this scope."
   },
   {
     "t": "watch",
@@ -811,7 +811,7 @@
     "val": "Unconfirmed size &mdash; this specific solicitation may be a discrete package under the County's much larger ($1B+) Vista jail modernization program",
     "trade": "Detention facility infrastructure/facility upgrade &mdash; vertical building work, scope not yet detailed",
     "u": "https://ceqanet.lci.ca.gov/2026020381",
-    "d": "New this scan, surfaced via a CEQA filing titled &quot;Vista Detention Facility Infrastructure &amp; Facility Upgrade&quot; and echoed on the County's construction bid aggregator listing. <b>The real open question is size, not fit</b> &mdash; the Sheriff's Department has publicly discussed a roughly $1 billion overall Vista jail rebuild/modernization plan, and it is not yet clear whether this specific solicitation is a modest, one-time infrastructure/facility package (which would fit MPX) or an early piece of the mega-program (which would not). County facility work of this kind typically names Class B. <b>Call County of San Diego Purchasing &amp; Contracting to get the actual solicitation number, scope and estimated value before spending any bid costs here</b> &mdash; do not assume this is the $1B program itself."
+    "d": "New CEQA-stage signal last scan, and this scan found the corroborating live listing: a formal County of San Diego solicitation titled &quot;Construction Manager at Risk &mdash; Vista Detention Facility,&quot; due 9/15, on the County's own bid aggregator. <b>That title is itself the size warning.</b> A CMAR (Construction Manager at Risk) procurement hires the construction-management firm that will run the jail modernization program and let its own trade packages later &mdash; it is not a bid MPX would submit directly, and it confirms this is part of the Sheriff's roughly $1 billion Vista jail rebuild, not a modest standalone infrastructure job. <b>Recommendation: do not chase the CMAR procurement itself.</b> Instead, call County of San Diego Purchasing &amp; Contracting to ask who is selected as CMAR and when trade-package subcontractor outreach begins &mdash; that is where a job MPX could actually bid would eventually surface."
   },
   {
     "t": "watch",
@@ -840,11 +840,11 @@
     "r": 94,
     "n": "Operations and Maintenance Center Building Improvements",
     "a": "San Diego County Water Authority",
-    "due": "",
+    "due": "2026-09-29",
     "val": "Not disclosed",
     "trade": "Tenant improvement to an existing O&amp;M facility &mdash; likely multi-trade interior work",
-    "u": "https://ceqanet.lci.ca.gov/2025121155",
-    "d": "New this scan, surfaced via a CEQA filing for building improvements at SDCWA's Operations and Maintenance Center in Escondido (San Diego County). A tenant-improvement/building-upgrade scope at an existing facility &mdash; MPX's best-yield shape if it clears the license and size screens, but <b>no bid number, due date, licence line or value has surfaced yet</b> &mdash; this is a CEQA/planning-stage signal, not confirmed to be at bid yet. Call SDCWA Contracting to ask whether this has been advertised and, if so, get the solicitation number before treating it as more than a lead."
+    "u": "https://www.constructionbidsource.com/state/california/county/san-diego/839255",
+    "d": "<b>Confirmed at bid this scan</b> &mdash; the CEQA-stage signal flagged last scan now has a real listing: &quot;SDCWA Operations Center Tenant Improvements&quot; (bid #839255), due 29 September, at San Diego County Water Authority's Operations &amp; Maintenance Center in Escondido. A tenant-improvement/building-upgrade scope at an existing facility is exactly MPX's best-yield shape if it clears the license and size screens. <b>Licence line and pre-bid status are still unconfirmed</b> &mdash; the aggregator listing does not surface either. Call SDCWA Contracting to get the license requirement and any pre-bid date before committing bid costs."
   },
   {
     "t": "watch",
@@ -856,5 +856,126 @@
     "trade": "Roofing &mdash; single-trade prime, subbed to a C-39",
     "u": "https://ceqanet.lci.ca.gov/2026010393",
     "d": "New this scan, surfaced via a CEQA filing for a roof replacement on Auxiliary Buildings B and C at &quot;Riverside Centre&quot; and echoed on the county bid aggregator as &quot;Roof Replacement at UOC Building B.&quot; Small-dollar, single-trade roofing at what reads as a County or City of Riverside office complex &mdash; the same biddable-as-prime shape as the roofing rows already validated elsewhere on this board (r14, r52, r71, r84), provided the owning agency's licence line names B or doesn't require C-39 exclusively. <b>Agency identity, licence line and due date are all unconfirmed</b> &mdash; call City/County of Riverside facilities purchasing to sort out which agency owns this and get the real bid number before pricing."
+  },
+  {
+    "t": "watch",
+    "r": 96,
+    "n": "Monterey Park Fire Station 63 Reconstruction",
+    "a": "City of Monterey Park (Los Angeles County)",
+    "due": "2026-09-15",
+    "val": "Not disclosed; a state legislative earmark of $2,000,000 toward the project has been separately confirmed, so total project cost likely exceeds that",
+    "trade": "New fire station construction — genuinely vertical building work",
+    "u": "https://www.constructionbidsource.com/state/california/county/los-angeles/836063",
+    "d": "New this scan. A full fire station reconstruction — about as clean a \"vertical building construction, top of the ranking\" fit as this board looks for, home-adjacent LA County, city facility. Confirmed elsewhere as a real, funded project (a $2M state earmark toward it was announced via a legislative press release), so this is not a phantom listing. <b>Licence line and total project value are both unconfirmed</b> — a full fire station is exactly the kind of project that can run well past the $5M ceiling once specialized apparatus-bay and life-safety systems are priced, so the size question needs an answer before this goes any further than a phone call. Call City of Monterey Park Purchasing/Public Works to get the actual bid number, licence requirement and engineer's estimate."
+  },
+  {
+    "t": "watch",
+    "r": 97,
+    "n": "Corona HUB Music Venue",
+    "a": "City of Corona (Riverside County)",
+    "due": "2026-09-21",
+    "val": "Not disclosed",
+    "trade": "New music/event venue construction at \"The HUB\" development — vertical building",
+    "u": "https://www.constructionbidsource.com/state/california/county/riverside/841334",
+    "d": "New this scan, and a companion project to the r92 HUB solar/energy infrastructure row already on this board — both sit at the same \"HUB\" development site in Corona, which independent search confirms is a real, currently-in-design mixed-use city project (\"Corona's New Center of Gravity\"). A music venue is genuine vertical building construction, Riverside County, right size profile if it clears the ceiling. <b>Licence line and value are unconfirmed</b> — call City of Corona Purchasing to get both, and ask about the HUB project generally since two packages from the same site have now surfaced in one week."
+  },
+  {
+    "t": "watch",
+    "r": 98,
+    "n": "West Elevator Improvements, B Street Cruise Ship Terminal",
+    "a": "Port of San Diego (San Diego County)",
+    "due": "2026-09-09",
+    "val": "Not disclosed",
+    "trade": "Elevator improvements at an existing terminal building — single-trade prime, subbed to a C-11",
+    "u": "https://www.constructionbidsource.com/state/california/county/san-diego?page=1",
+    "d": "New this scan. Elevator work at the B Street Cruise Ship Terminal — the same single-trade-elevator-prime shape already validated on this board (r55 West Basin MWD, r80 UCLA Westwood). Home market, Port of San Diego. <b>Licence line, value and pre-bid status are all unconfirmed</b>, and runway is short (due 9/9) — call Port of San Diego Public Works/purchasing immediately if there's interest, or let it pass if the license question can't be resolved in time."
+  },
+  {
+    "t": "watch",
+    "r": 99,
+    "n": "USCG Air Station Crew Berthing Rooms Renovations",
+    "a": "U.S. Coast Guard (place of performance believed San Diego County)",
+    "due": "2026-09-18",
+    "val": "Not disclosed; interior berthing-room renovation, reads well under $5M",
+    "trade": "Interior building renovation — vertical, multi-trade (framing, finishes, plumbing, electrical)",
+    "u": "https://www.constructionbidsource.com/state/california/county/san-diego/841767",
+    "d": "New this scan. Federal (Coast Guard), interior renovation of crew berthing rooms — genuinely vertical, multi-trade building work if the place of performance is confirmed as San Diego County (a related listing, \"Uscg Berthing San Diego,\" was separately found on BidNet Direct, supporting that it is). Federal solicitations don't carry a CSLB classification — the question is the NAICS/set-aside type. <b>Confirm place of performance, set-aside type (must not be SDVOSB-only) and NAICS on SAM.gov before pricing.</b>"
+  },
+  {
+    "t": "watch",
+    "r": 100,
+    "n": "Howard Lane Neighborhood Park Improvements",
+    "a": "City of San Diego, Parks & Recreation (San Diego County)",
+    "due": "2026-09-16",
+    "val": "Not disclosed",
+    "trade": "Neighborhood park construction — site structures, likely multi-trade",
+    "u": "https://www.constructionbidsource.com/state/california/county/san-diego?page=1",
+    "d": "New this scan. City of San Diego neighborhood park improvements — home market, park/city-facility work is MPX's proven best-yield shape. <b>Licence line and value unconfirmed</b> — the City's own Parks & Recreation project page describes design development but not bid mechanics. Call City of San Diego Purchasing to get the bid number and licence requirement."
+  },
+  {
+    "t": "watch",
+    "r": 101,
+    "n": "Paseo Buena Vista Park",
+    "a": "City of Vista (San Diego County)",
+    "due": "2026-09-09",
+    "val": "Not disclosed",
+    "trade": "New park construction — site structures, likely multi-trade",
+    "u": "https://www.constructionbidsource.com/state/california/county/san-diego?page=1",
+    "d": "New this scan. A new City of Vista park project — home market, right shape. <b>Licence line, value and pre-bid status are all unconfirmed</b>, and runway is short (due 9/9) — call City of Vista Purchasing/Engineering right away if there's interest."
+  },
+  {
+    "t": "watch",
+    "r": 102,
+    "n": "Miramar — W Building Carpet Replacement",
+    "a": "San Diego Miramar College, San Diego Community College District (San Diego County)",
+    "due": "2026-09-17",
+    "val": "Not disclosed; single-building flooring replacement, likely well under $220,000",
+    "trade": "Flooring replacement — single-trade prime, subbed to a C-15",
+    "u": "https://www.constructionbidsource.com/state/california/county/san-diego?page=1",
+    "d": "New this scan. Reads as San Diego Miramar College (SDCCD), matching the naming pattern of other community-college \"[Building] Carpet/Flooring Replacement\" packages. Small dollar, likely inside the sub-$220K sweet spot. As a direct SDCCD prime solicitation, single-trade flooring work is biddable under &sect;7057(b) if SDCCD's own licence line accepts B or a general CA licence rather than naming C-15 exclusively — unconfirmed. Call SDCCD Purchasing to confirm before pricing."
+  },
+  {
+    "t": "watch",
+    "r": 103,
+    "n": "Synthetic Turf Replacement — Alga Norte & Aviara",
+    "a": "City of Carlsbad (San Diego County)",
+    "due": "2026-09-23",
+    "val": "Not disclosed",
+    "trade": "Synthetic turf replacement at two park/sports sites — single-trade prime, subbed to a C-27/turf specialist",
+    "u": "https://www.constructionbidsource.com/state/california/county/san-diego/840346",
+    "d": "New this scan. A defined turf-replacement project (not maintenance) at two Carlsbad sites, home market. As a direct City prime solicitation, single-trade turf/landscaping work is biddable under &sect;7057(b) provided Carlsbad's own licence line doesn't name a C classification exclusively — unconfirmed. Call City of Carlsbad Purchasing to confirm the licence line and value."
+  },
+  {
+    "t": "watch",
+    "r": 104,
+    "n": "Demolition — 1350 Front Street",
+    "a": "CA Dept. of General Services / HCD (San Diego County)",
+    "due": "",
+    "val": "Not disclosed",
+    "trade": "Building demolition — vertical, one-time scope",
+    "u": "https://www.highergov.com/sl/contract-opportunity/ca-contract-25-312180-demolition-1350-fron-69404384/",
+    "d": "New this scan, surfaced via the DGS Real Estate Services Division's current-solicitations page (flagged as active again on r73). Demolition of the State-owned 1350 Front Street building in downtown San Diego, part of the same site as the companion 345 Ash/1301 State Street demolition below — likely two packages of one larger downtown redevelopment site being cleared for affordable housing per a related CEQA filing. Demolition reads as vertical, defined, one-time scope — a good category fit. <b>Licence line, value and due date are all unconfirmed</b> — call DGS Real Estate Services Division to get the actual solicitation number before pricing."
+  },
+  {
+    "t": "watch",
+    "r": 105,
+    "n": "Demolition — 345 Ash Street & 1301 State Street",
+    "a": "CA Dept. of General Services / HCD (San Diego County)",
+    "due": "",
+    "val": "Not disclosed",
+    "trade": "Building demolition — vertical, one-time scope",
+    "u": "https://www.dgs.ca.gov/RESD/Resources/Page-Content/Real-Estate-Services-Division-Resources-List-Folder/Current-Real-Estate-Services-Division-Solicitations",
+    "d": "New this scan, companion package to the 1350 Front Street demolition above — same downtown San Diego redevelopment site, found on the same DGS RESD solicitations page. Same shape and same open items: licence line, value and due date all unconfirmed. Call DGS Real Estate Services Division to get both solicitation numbers at once."
+  },
+  {
+    "t": "watch",
+    "r": 106,
+    "n": "Virginia Avenue Park Playground Replacement",
+    "a": "City of Santa Monica (Los Angeles County)",
+    "due": "2026-09-11",
+    "val": "Not disclosed",
+    "trade": "Playground replacement — matches the pattern of other playground jobs already on this board",
+    "u": "https://www.constructionbidsource.com/state/california/county/los-angeles/838484",
+    "d": "New this scan. Playground replacement at a well-established Santa Monica city park — the same shape as the Huerta (r34) and Sea Cloud-style playground rows already validated on this board. <b>Licence line unconfirmed</b> and runway is short (due 9/11) — call City of Santa Monica Purchasing promptly if there's interest."
   }
 ]
