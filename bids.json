@@ -88,15 +88,15 @@
     "d": "<b>Off the live list &mdash; the 3 September deadline has passed.</b> Licence named B alongside A (&quot;Class A &mdash; General Engineering Contractor (GEC); Class B &mdash; General Building Contractor (GBC)&quot;), so this was always biddable despite the drainage scope; unknown utilities and soils around an occupied childcare building were flagged repeatedly as real change-order exposure. If a bid went in, watch Grossmont-Cuyamaca CCD's award postings; otherwise closed."
   },
   {
-    "t": "go",
+    "t": "blocked",
     "r": 14,
-    "n": "SCSC Gymnasium Vapor Barrier (Ceiling) Removal and Replacement",
+    "n": "SCSC Gymnasium Vapor Barrier (Ceiling) Removal and Replacement &mdash; runway ran out",
     "a": "City of Santa Clarita (Los Angeles County)",
     "due": "2026-09-14",
     "val": "$200,000",
     "trade": "Ceiling vapor barrier removal and replacement",
     "u": "https://www.constructionbidsource.com/state/california/county/los-angeles/838617",
-    "d": "&quot;Class B &mdash; General Building Contractor (GBC): Building Construction, Enclosed Structures&quot; is the stated requirement, re-confirmed this scan, so MPX qualifies outright. $200,000 &mdash; inside the sub-$220K bracket where the competitive pool is thinnest &mdash; a city facility, and about a week of runway. The pre-bid on 20 August was encouraged rather than mandatory and has now passed, which costs nothing. <b>The risk is what is above the ceiling.</b> A gymnasium vapor barrier replacement means high-reach access over a hard floor (scaffold or boom, and the cost difference between them is real), and any ceiling assembly in a building of that age carries an asbestos and lead question that the bid documents may or may not answer. Ask for the hazmat survey before pricing; if there is not one, that is not a contingency, that is a reason to qualify the bid."
+    "d": "<b>Moved to blocked this scan on filter 8 &mdash; runway is down to two business days (due Mon 9/14, scanned Thu 9/10).</b> &quot;Class B &mdash; General Building Contractor (GBC): Building Construction, Enclosed Structures&quot; was the stated requirement, so the licence was never the issue, and the sub-$220K bracket made this one of the board's cleanest small fits for weeks. The pre-bid on 20 August was encouraged rather than mandatory, so nothing about the walk killed it &mdash; the calendar simply ran out. Watch for a Santa Clarita recompete; the hazmat/high-reach risk flagged on prior scans (ask for the ceiling assembly's asbestos/lead survey before pricing) applies again whenever this shape reappears."
   },
   {
     "t": "go",
@@ -110,15 +110,15 @@
     "d": "An addendum dated 17 August pushed the bid date to 18 September at 10:00 AM, and the stated classification is &quot;Class B &mdash; General Building Contractor (GBC) for building construction and enclosed structures, with subcontracting opportunities available.&quot; $800,000, a community college district, and the pre-bid on 6 August was encouraged rather than mandatory &mdash; so missing the walk costs nothing here. <b>Two risks.</b> Lancaster is roughly 150 miles from San Diego, a real supervision cost on a job this size. And a modular relocation is not a modular installation: the building already exists, its condition is whatever the last twenty years made it, and the disassembly, transport and re-set risk sits with the contractor. Walk the actual building before pricing."
   },
   {
-    "t": "go",
+    "t": "blocked",
     "r": 16,
-    "n": "Chilled Water System Upgrade &mdash; Alhambra Police Department (N2M26-91)",
+    "n": "Chilled Water System Upgrade &mdash; Alhambra Police Department (N2M26-91) &mdash; mandatory walk passed, attendance unconfirmed",
     "a": "City of Alhambra (Los Angeles County)",
     "due": "2026-10-01",
     "val": "Not published; 120 calendar days, single-building mechanical upgrade &mdash; well under the ceiling",
     "trade": "Chilled water plant replacement &mdash; mechanical, electrical and building work",
     "u": "https://www.constructionbidsource.com/state/california/county/los-angeles/839077",
-    "d": "<b>The longest runway on the board, re-confirmed open this scan.</b> The posting lists three acceptable classifications and &quot;Class B &mdash; General Building Contractor GBC: Building Construction, Enclosed Structures&quot; is named first, ahead of C-10 and C-20 &mdash; so B is expressly acceptable and the mechanical and electrical scopes get subbed under &sect;7057(b). Bids close 1 October at 10:30 AM. <b>The mandatory pre-bid is today, 9 September at 9:00 AM &mdash; it sits the same day and nearly the same hour as the West Basin MWD Elevator walk at 10:00 AM (also LA County, see below); pick one or send two people.</b> Bonds and prevailing wage apply. <b>Two risks.</b> This is a C-20's job wearing a general contractor's licence &mdash; go in only with a mechanical partner who wants the relationship. And an operating police department cannot lose cooling, so expect phased cut-overs and temporary chillers that the 120-day calendar may not obviously allow for &mdash; raise it at today's walk. <b>Verification note:</b> the licence line and walk date come from the aggregator listing; the City's own bid page blocks automated reading, so confirm both directly before the walk."
+    "d": "<b>Moved to blocked this scan on filter 7 &mdash; the mandatory pre-bid walk was yesterday, 9 September at 9:00 AM, with no record of MPX attendance.</b> Everything else about this one was clean: three acceptable classifications listed with &quot;Class B &mdash; General Building Contractor GBC: Building Construction, Enclosed Structures&quot; named first ahead of C-10 and C-20, bids close 1 October, bonds and prevailing wage apply. If MPX signed in at yesterday's walk, this reverts straight to go/watch &mdash; confirm internally today. <b>If not attended, still worth a call to Alhambra to ask about a possible makeup, given the licence read is this clean and the runway (due 10/1) is otherwise the longest on the board.</b> Two risks carried over if it revives: a C-20's job wearing a general contractor's licence (go in only with a mechanical partner), and an operating police department that cannot lose cooling, meaning phased cut-overs the 120-day calendar may not obviously allow for."
   },
   {
     "t": "go",
@@ -209,7 +209,7 @@
     "d": "<b>Still blocked &mdash; the mandatory pre-bid walk (3 September, 10:30 AM) has passed with no record of MPX attendance.</b> Enclose roughly 167 sq ft of existing covered outdoor space into conditioned office space, plus minor regrading, a new concrete landing/step and ADA upgrades &mdash; a genuine small vertical addition to a city facility, right in the sub-$220K sweet spot if the scope holds. The listing's license field never showed a verbatim CSLB classification, so filter 4 was never cleanly resolved either. If someone from MPX did sign in on 9/3, this reverts straight to watch/go &mdash; otherwise dead under filter 7 regardless of the license question."
   },
   {
-    "t": "watch",
+    "t": "blocked",
     "r": 32,
     "n": "Los Penasquitos Canyon Preserve Outdoor Classroom &mdash; runway ran out",
     "a": "County of San Diego",
@@ -528,15 +528,15 @@
     "d": "<b>Reclassified 30 Aug 2026 &mdash; policy change.</b> MPX now excludes all ongoing/on-call/as-needed maintenance arrangements regardless of trade, value or term; only one-time, defined-scope construction projects are surfaced. This listing's own scope is open-ended repair/service dispatch, not a discrete capital project, so it no longer qualifies for the working board. Left here only for record; do not treat as active."
   },
   {
-    "t": "watch",
+    "t": "blocked",
     "r": 55,
-    "n": "Elevator Modernization, Donald L. Dear Building",
+    "n": "Elevator Modernization, Donald L. Dear Building &mdash; mandatory walk passed, attendance unconfirmed",
     "a": "West Basin Municipal Water District (Los Angeles County)",
     "due": "2026-09-17",
     "val": "Not disclosed",
     "trade": "Replacement of two hydraulic elevator controllers &mdash; single-trade prime, subbed to a C-11",
     "u": "https://www.constructionbidsource.com/state/california/county/los-angeles/839867",
-    "d": "Replacement of two hydraulic elevator controllers and related components at a West Basin MWD facility. <b>Mandatory pre-bid today, 9 September, 10:00 AM &mdash; and it sits the same day as the Alhambra Chilled Water walk at 9:00 AM (also LA County, see above); pick one or send two people.</b> The licence line is still not visible without a portal account (OpenGov and BeaconBid both return 403/shell content only) &mdash; call before today's walk if there's still time."
+    "d": "<b>Moved to blocked this scan on filter 7 &mdash; the mandatory pre-bid walk was yesterday, 9 September at 10:00 AM, with no record of MPX attendance.</b> Replacement of two hydraulic elevator controllers and related components at a West Basin MWD facility, due 9/17. The licence line was never confirmed without a portal account (OpenGov and BeaconBid both returned 403/shell content only). If MPX did attend yesterday's walk, this reverts straight to watch/go, license question still open. Otherwise dead under filter 7 &mdash; worth one call to ask about a makeup given the single-trade-elevator-prime shape has matched cleanly elsewhere on this board (r80 UCLA, now also closed)."
   },
   {
     "t": "blocked",
@@ -613,7 +613,7 @@
     "val": "$990,000&ndash;$1,200,000",
     "trade": "Shade shelter construction (steel structure, footings, canopy) at six SDUSD campuses",
     "u": "https://www.constructionbidsource.com/state/california/county/san-diego/841205",
-    "d": "License classification not stated; SDUSD's own bid page redirects to a PlanetBids shell that didn't surface it. Matches the shade-structure pattern already tracked at Riverside USD (r44/r46) &mdash; typically a concrete/steel scope reading as Class B general building work. <b>Mandatory pre-bid is tomorrow, Thursday 10 September, 9:00 AM &mdash; same day as the Cuyamaca College Auto Lifts walk below (2:00 PM, also San Diego County, doable same day for one person).</b> <b>Risk:</b> six sites means six sets of access and scheduling logistics on active school campuses; confirm the license line and ask whether sites can be sequenced before pricing. Companion packages Group 5B (r108, due 10/1) and Group 5C (r109, due 10/6) are the same program, same open item; worth one call to SDUSD covering all three."
+    "d": "License classification not stated; SDUSD's own bid page redirects to a PlanetBids shell that didn't surface it. Matches the shade-structure pattern already tracked at Riverside USD (r44/r46) &mdash; typically a concrete/steel scope reading as Class B general building work. <b>The mandatory pre-bid walk was yesterday, Thursday 10 September, 9:00 AM &mdash; confirm internally whether MPX attended before pricing.</b> <b>Risk:</b> six sites means six sets of access and scheduling logistics on active school campuses; confirm the license line and ask whether sites can be sequenced before pricing. Companion packages Group 5B (r108, due 10/1) and Group 5C (r109, due 10/6) are the same program, same open item; worth one call to SDUSD covering all three."
   },
   {
     "t": "watch",
@@ -624,7 +624,7 @@
     "val": "$1,800,000",
     "trade": "Remove/install 12 automotive lifts; ADA upgrades to parking lot and Building K restrooms; EV-charging electrical infrastructure; new roof over car-wash bay; storage enclosure; exterior painting",
     "u": "https://www.constructionbidsource.com/state/california/county/san-diego/840952",
-    "d": "License classification not stated; GCCCD's own current-bid-opportunities page doesn't show this project at all, suggesting a separate unindexed PlanetBids instance. Genuinely multi-trade &mdash; roofing, electrical, painting, restroom/ADA work &mdash; the kind of mix that favors a Class B general building prime with the lift install subbed to a specialty installer. <b>Mandatory pre-bid is tomorrow, Thursday 10 September, 2:00 PM &mdash; same day as the SDUSD shade-shelter walk above (9:00 AM, also San Diego County) &mdash; both are doable in one day for one person.</b> <b>Risk:</b> specialized automotive-lift installation is not a typical GC scope &mdash; line up a qualified lift subcontractor and get their number before bidding the shell."
+    "d": "License classification not stated; GCCCD's own current-bid-opportunities page doesn't show this project at all, suggesting a separate unindexed PlanetBids instance. Genuinely multi-trade &mdash; roofing, electrical, painting, restroom/ADA work &mdash; the kind of mix that favors a Class B general building prime with the lift install subbed to a specialty installer. <b>The mandatory pre-bid walk was yesterday, Thursday 10 September, 2:00 PM &mdash; confirm internally whether MPX attended before pricing.</b> <b>Risk:</b> specialized automotive-lift installation is not a typical GC scope &mdash; line up a qualified lift subcontractor and get their number before bidding the shell."
   },
   {
     "t": "watch",
@@ -635,7 +635,7 @@
     "val": "Not disclosed",
     "trade": "Concrete pad, outdoor fitness court equipment, shade shelter, irrigation modification",
     "u": "https://www.constructionbidsource.com/state/california/county/riverside/840970",
-    "d": "License line not stated on the posting. Multi-trade small scope (concrete, shade structure, irrigation) fits a Class B prime running 2&ndash;3 subs; 60-day duration, DBE/HUB good-faith-effort outreach required. No pre-bid meeting listed, so filter 7 doesn't apply. <b>Risk:</b> value undisclosed and the license line unconfirmed &mdash; the irrigation piece needs to read as installation, not landscape maintenance, before this is more than a lead."
+    "d": "<b>Runway is down to two business days (due Mon 9/14, scanned Thu 9/10) &mdash; call today or drop it.</b> License line not stated on the posting. Multi-trade small scope (concrete, shade structure, irrigation) fits a Class B prime running 2&ndash;3 subs; 60-day duration, DBE/HUB good-faith-effort outreach required. No pre-bid meeting listed, so filter 7 doesn't apply. <b>Risk:</b> value undisclosed and the license line unconfirmed &mdash; the irrigation piece needs to read as installation, not landscape maintenance, before this is more than a lead."
   },
   {
     "t": "watch",
@@ -646,7 +646,7 @@
     "val": "Not disclosed",
     "trade": "Demolition of athletic score/storage buildings, backstops, fencing, concrete and asphalt walkways",
     "u": "https://www.constructionbidsource.com/state/california/county/los-angeles/840691",
-    "d": "The 3 September, 9:00 AM walk is Optional (Encouraged), not mandatory, so nothing on the calendar blocks a bid. Demolition of athletic score/storage buildings, backstops, fencing, concrete and asphalt walkways at 16949 Wedgeworth Dr., Hacienda Heights; questions due 9/8, bid due 9/14. License classification is still not stated on the listing (only &quot;Bonds required. Prevailing wages.&quot;) &mdash; that remains the one open item. Scope (structure/backstop/fence/flatwork demolition) doesn't read as a single-C-only package, so MPX likely clears as a B prime subcontracting the demo, but call HLPUSD to confirm the license line before pricing."
+    "d": "<b>Runway is down to two business days (due Mon 9/14, scanned Thu 9/10) &mdash; call today or drop it.</b> The 3 September, 9:00 AM walk was Optional (Encouraged), not mandatory, so the calendar pressure here is purely the bid date. Demolition of athletic score/storage buildings, backstops, fencing, concrete and asphalt walkways at 16949 Wedgeworth Dr., Hacienda Heights; questions closed 9/8. License classification is still not stated on the listing (only &quot;Bonds required. Prevailing wages.&quot;) &mdash; that remains the one open item. Scope (structure/backstop/fence/flatwork demolition) doesn't read as a single-C-only package, so MPX likely clears as a B prime subcontracting the demo, but call HLPUSD today to confirm the license line if pricing is to happen at all."
   },
   {
     "t": "blocked",
@@ -679,7 +679,7 @@
     "val": "Not listed; &asymp;18,289 sq ft, AB 1572 compliance, likely under $220,000",
     "trade": "Turf removal and water-wise landscape installation &mdash; single-trade prime, subbed to a C-27",
     "u": "https://www.constructionbidsource.com/state/california/county/riverside/841408",
-    "d": "A companion to the now-blocked r81 (Fire Stations 5/11/13 turf, City of Riverside) &mdash; same City of Riverside turf-replacement programme, must comply with WMWD rebate-eligible measures and finish by 12/15/2026. Licence line unconfirmed. <b>Risk:</b> confirm licence and value with City of Riverside Purchasing before pricing &mdash; runway is now very short (due 9/15, two business days), so this call needs to happen today."
+    "d": "A companion to the now-blocked r81 (Fire Stations 5/11/13 turf, City of Riverside) &mdash; same City of Riverside turf-replacement programme, must comply with WMWD rebate-eligible measures and finish by 12/15/2026. Licence line unconfirmed. <b>Risk:</b> confirm licence and value with City of Riverside Purchasing before pricing &mdash; runway is now very short (due 9/15, three business days), so this call needs to happen today or tomorrow."
   },
   {
     "t": "watch",
@@ -789,7 +789,7 @@
     "val": "Not disclosed; a state legislative earmark of $2,000,000 toward the project has been separately confirmed, so total project cost likely exceeds that",
     "trade": "New fire station construction — genuinely vertical building work",
     "u": "https://www.constructionbidsource.com/state/california/county/los-angeles/836063",
-    "d": "A full fire station reconstruction — about as clean a \"vertical building construction, top of the ranking\" fit as this board looks for, home-adjacent LA County, city facility. Confirmed elsewhere as a real, funded project (a $2M state earmark toward it was announced via a legislative press release), so this is not a phantom listing. <b>Licence line and total project value are both unconfirmed</b> — a full fire station is exactly the kind of project that can run well past the $5M ceiling once specialized apparatus-bay and life-safety systems are priced, so the size question needs an answer before this goes any further than a phone call. Call City of Monterey Park Purchasing/Public Works to get the actual bid number, licence requirement and engineer's estimate."
+    "d": "A full fire station reconstruction — about as clean a \"vertical building construction, top of the ranking\" fit as this board looks for, home-adjacent LA County, city facility. Confirmed elsewhere as a real, funded project (a $2M state earmark toward it was announced via a legislative press release), so this is not a phantom listing. <b>Licence line and total project value are both unconfirmed</b> — a full fire station is exactly the kind of project that can run well past the $5M ceiling once specialized apparatus-bay and life-safety systems are priced, so the size question needs an answer before this goes any further than a phone call. <b>Runway is now three business days (due 9/15) — call today.</b> Call City of Monterey Park Purchasing/Public Works to get the actual bid number, licence requirement and engineer's estimate."
   },
   {
     "t": "watch",
@@ -910,7 +910,7 @@
     "val": "Not published; 2-bathroom renovation, ~240 sq ft, reads well under $5M",
     "trade": "Lead-safe demolition, waterproof vinyl flooring, plumbing fixtures, partitions — interior renovation, NAICS 236118 Residential Remodelers",
     "u": "https://www.constructionbidsource.com/state/california/county/san-diego/841765",
-    "d": "<b>Moved to blocked this scan on filter 8 &mdash; runway is down to two business days (due 9/11).</b> Federal solicitation, Total Small Business Set-Aside under NAICS 236118 (Residential Remodelers) — lead-safe demolition of flooring, fixtures and partitions in two bathrooms with containment, new waterproof vinyl flooring (~240 sq ft), new plumbing fixtures and partitions/mirrors, utility reconnection and cleanup. If MPX has a bid in hand and ready to submit by 9/11, still worth finishing; otherwise watch for a federal recompete of this scope — small federal renovations like this recur."
+    "d": "<b>Moved to blocked this scan on filter 8 &mdash; runway is down to two business days (due 9/11).</b> Federal solicitation, Total Small Business Set-Aside under NAICS 236118 (Residential Remodelers) — lead-safe demolition of flooring, fixtures and partitions in two bathrooms with containment, new waterproof vinyl flooring (~240 sq ft), new plumbing fixtures and partitions/mirrors, utility reconnection and cleanup. If MPX has a bid in hand and ready to submit by 9/11, still worth finishing; otherwise watch for a federal recompete of this scope; small federal renovations like this recur."
   },
   {
     "t": "watch",
@@ -1042,7 +1042,7 @@
     "val": "$1,200,000",
     "trade": "Medical facility interior renovation &mdash; multi-trade",
     "u": "https://www.capitalprograms.ucla.edu/file/contract/25309/AdforBids_944676-01.pdf",
-    "d": "7300 Medical Center Dr, West Hills. <b>Licence line names Class B as the only classification required</b> &mdash; a clean, uncomplicated match, and otherwise the closest thing to a clean go on the entire board. Medical facility interior renovation, right size, home market. <b>The mandatory pre-bid/job walk was yesterday, 9/8, 10:00 AM (Zoom), and there is no record yet of whether MPX attended.</b> Moved to blocked pending confirmation, per filter 7 &mdash; if MPX did join the Zoom session, this reverts immediately to watch/go, no other blockers found. Confirm internally today."
+    "d": "7300 Medical Center Dr, West Hills. <b>Licence line names Class B as the only classification required</b> &mdash; a clean, uncomplicated match, and otherwise the closest thing to a clean go on the entire board. Medical facility interior renovation, right size, home market. <b>The mandatory pre-bid/job walk was 9/8, 10:00 AM (Zoom), and there is no record yet of whether MPX attended.</b> Still blocked pending confirmation, per filter 7 &mdash; if MPX did join the Zoom session, this reverts immediately to watch/go, no other blockers found. Confirm internally."
   },
   {
     "t": "watch",
@@ -1053,7 +1053,7 @@
     "val": "Not disclosed",
     "trade": "Utility room mechanical/electrical improvements at a HACLA housing property — likely multi-trade",
     "u": "https://data.lacity.org/resource/hf3r-utnq.csv",
-    "d": "New this scan, found via the LA Open Data Portal's RAMP mirror (the live RAMP site itself is JS-broken for direct fetching). HACLA states elsewhere that work over $150K routes through RAMP formal bidding, which is a positive size signal for a genuine construction opportunity rather than a small supply order. <b>Scope, value and licence line are all unconfirmed</b> &mdash; only the bid title and agency were pulled from the listing. Runway is moderate (due 9/15). Call HACLA Procurement to get the actual bid documents and licence requirement before committing any estimating time; if it turns out to be maintenance/repair dispatch rather than a defined capital improvement, this reverts to a filter-10 screen-out."
+    "d": "Found via the LA Open Data Portal's RAMP mirror (the live RAMP site itself is JS-broken for direct fetching). HACLA states elsewhere that work over $150K routes through RAMP formal bidding, which is a positive size signal for a genuine construction opportunity rather than a small supply order. <b>Scope, value and licence line are all unconfirmed</b> &mdash; only the bid title and agency were pulled from the listing. <b>Runway is now three business days (due 9/15) — call today.</b> Call HACLA Procurement to get the actual bid documents and licence requirement before committing any estimating time; if it turns out to be maintenance/repair dispatch rather than a defined capital improvement, this reverts to a filter-10 screen-out."
   },
   {
     "t": "watch",
@@ -1064,7 +1064,7 @@
     "val": "Not disclosed",
     "trade": "Park landscaping plus facility improvements — reads as a defined capital project, not maintenance",
     "u": "https://www.constructionbidsource.com/state/california/county/riverside/842014",
-    "d": "New this scan. A capital-improvement project (landscaping plus facility work) at a Palm Desert civic center park — the title itself distinguishes it from an as-needed maintenance contract, and Palm Desert already carries two vendor-list registrations on this board (r22), a good sign for how the City licenses its work. <b>Licence line and value are both unconfirmed</b> &mdash; call City of Palm Desert Purchasing/Public Works to get the classification and estimated value before pricing; also worth asking about the companion demolition project below (r115) surfaced the same day."
+    "d": "A capital-improvement project (landscaping plus facility work) at a Palm Desert civic center park — the title itself distinguishes it from an as-needed maintenance contract, and Palm Desert already carries two vendor-list registrations on this board (r22), a good sign for how the City licenses its work. <b>Licence line and value are both unconfirmed</b> &mdash; call City of Palm Desert Purchasing/Public Works to get the classification and estimated value before pricing; also worth asking about the companion demolition project below (r115) surfaced the same week."
   },
   {
     "t": "watch",
@@ -1075,7 +1075,7 @@
     "val": "Not disclosed",
     "trade": "Demolition and site stabilization — vertical, one-time scope",
     "u": "https://www.constructionbidsource.com/state/california/county/riverside/841959",
-    "d": "New this scan. Demolition of two City-owned properties plus site stabilization, Palm Desert &mdash; reads as a clean, defined-scope demolition project, MPX's top-ranked category, and good runway. <b>Licence line and value are both unconfirmed</b> &mdash; call City of Palm Desert Purchasing/Public Works to confirm the classification and estimated value; ask about r114 (Civic Center Park) at the same time since both surfaced from the same city the same day."
+    "d": "Demolition of two City-owned properties plus site stabilization, Palm Desert &mdash; reads as a clean, defined-scope demolition project, MPX's top-ranked category, and good runway. <b>Licence line and value are both unconfirmed</b> &mdash; call City of Palm Desert Purchasing/Public Works to confirm the classification and estimated value; ask about r114 (Civic Center Park) at the same time since both surfaced from the same city the same week."
   },
   {
     "t": "watch",
@@ -1086,7 +1086,7 @@
     "val": "Not disclosed",
     "trade": "Site preparation and portable classroom relocation — foundation, set, utility reconnection, similar shape to r15",
     "u": "https://www.constructionbidsource.com/state/california/county/los-angeles/842272",
-    "d": "New this scan. Site preparation and relocation of a portable classroom building at Arroyo High School &mdash; the same shape as the already-validated Fox Field modular relocation (r15): foundation work, building set, utility reconnection, finishes. School district, LA County, right size. <b>Licence line and value are both unconfirmed</b> &mdash; call the district's purchasing/facilities office to confirm the classification before pricing."
+    "d": "Site preparation and relocation of a portable classroom building at Arroyo High School &mdash; the same shape as the already-validated Fox Field modular relocation (r15): foundation work, building set, utility reconnection, finishes. School district, LA County, right size. <b>Licence line and value are both unconfirmed</b> &mdash; call the district's purchasing/facilities office to confirm the classification before pricing."
   },
   {
     "t": "watch",
@@ -1097,6 +1097,6 @@
     "val": "Not disclosed",
     "trade": "Interior fencing installation — single-trade prime, subbed to a C-13",
     "u": "https://www.constructionbidsource.com/state/california/county/los-angeles/842268",
-    "d": "New this scan. New interior fencing at Jefferson Elementary &mdash; a direct district prime solicitation, so single-trade fencing work is biddable under &sect;7057(b) by carrying a licensed C-13, provided the district's own licence line names B or just a valid CA contractor's licence (unconfirmed). Small scope, LA County, school district. Call IUSD Purchasing to confirm the licence line and value before pricing."
+    "d": "New interior fencing at Jefferson Elementary &mdash; a direct district prime solicitation, so single-trade fencing work is biddable under &sect;7057(b) by carrying a licensed C-13, provided the district's own licence line names B or just a valid CA contractor's licence (unconfirmed). Small scope, LA County, school district. Call IUSD Purchasing to confirm the licence line and value before pricing."
   }
 ]
