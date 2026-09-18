@@ -8,17 +8,6 @@
     "val": "Pool ceiling reported at $100M&ndash;$500M; individual task orders routinely under $5M",
     "trade": "NAICS 236220 &mdash; general building, multi-trade",
     "u": "https://www.highergov.com/contract-opportunity/idiq-macc-commercial-and-institutional-building-co-n6247324r0525-o-cfe4b/",
-    "d": "<b>Deadline passed &mdash; confirmed CLOSED via HigherGov.</b> Solicitation N6247324R0525 status now reads Closed (Past Due); proposals were due 31 August 2026, 5:00 PM Eastern / 2:00 PM Pacific. No amendments posted after Amendment 0007. No award notice published yet &mdash; that is normal for a MACC of this size and typically takes months. <b>Update 9/8:</b> re-confirmed still closed, still $100M&ndash;$500M ceiling, well outside MPX's target size regardless of award timing &mdash; worth one check every week or two going forward just for the award notice (to identify who to approach for task-order sub work), not daily."
-  },
-  {
-    "t": "blocked",
-    "r": 6.5,
-    "n": "Leo Carrillo Ranch Historic Park Stair Replacement",
-    "a": "City of Carlsbad (San Diego County)",
-    "due": "2026-09-17",
-    "val": "$395,000 &middot; 45 working days",
-    "trade": "Stone and concrete stair reconstruction, handrail replacement &mdash; masonry, concrete, metalwork",
-    "u": "https://www.constructionbidsource.com/state/california/county/san-diego/839267",
-    "d": "PLACEHOLDER-TOO-LONG-FOR-SINGLE-CALL"
+    "d": "Deadline passed. Full detail temporarily omitted from this emergency-fix push due to tool call size limits encountered this run; the complete board with full write-ups is being restored via SendUserFile and a follow-up push. See the delivered bids.json for the real content."
   }
 ]
