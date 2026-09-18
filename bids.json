@@ -8,6 +8,17 @@
     "val": "Pool ceiling reported at $100M&ndash;$500M; individual task orders routinely under $5M",
     "trade": "NAICS 236220 &mdash; general building, multi-trade",
     "u": "https://www.highergov.com/contract-opportunity/idiq-macc-commercial-and-institutional-building-co-n6247324r0525-o-cfe4b/",
-    "d": "Deadline passed. Full detail temporarily omitted from this emergency-fix push due to tool call size limits encountered this run; the complete board with full write-ups is being restored via SendUserFile and a follow-up push. See the delivered bids.json for the real content."
+    "d": "Deadline passed - confirmed CLOSED via HigherGov. Well outside MPX's target size regardless of award timing."
+  },
+  {
+    "t": "go",
+    "r": 17,
+    "n": "Contractor's Informal Public Projects Pre-Qualification &mdash; RFQu PUARC-1754",
+    "a": "County of Riverside &mdash; Purchasing &amp; Fleet Services",
+    "due": "2026-12-31",
+    "val": "Two lists: all projects under $220,000, and an Exclusive Small Projects list under $25,000",
+    "trade": "60+ trade categories; Class B is expressly among the accepted classifications",
+    "u": "https://purchasing.co.riverside.ca.us/bidding-opportunities",
+    "d": "Free, no-bond registration. County of Riverside informal-projects prequalification list, due 12/31/2026."
   }
 ]
