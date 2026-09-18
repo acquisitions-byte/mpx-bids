@@ -11,6 +11,17 @@
     "d": "Deadline passed - confirmed CLOSED via HigherGov. Well outside MPX's target size regardless of award timing."
   },
   {
+    "t": "blocked",
+    "r": 6.5,
+    "n": "Leo Carrillo Ranch Historic Park Stair Replacement",
+    "a": "City of Carlsbad (San Diego County)",
+    "due": "2026-09-17",
+    "val": "$395,000",
+    "trade": "Stone and concrete stair reconstruction",
+    "u": "https://www.constructionbidsource.com/state/california/county/san-diego/839267",
+    "d": "Filter 11 - bonding likely required at this value, MPX cannot get bonded. Blocked."
+  },
+  {
     "t": "go",
     "r": 17,
     "n": "Contractor's Informal Public Projects Pre-Qualification &mdash; RFQu PUARC-1754",
@@ -19,6 +30,193 @@
     "val": "Two lists: all projects under $220,000, and an Exclusive Small Projects list under $25,000",
     "trade": "60+ trade categories; Class B is expressly among the accepted classifications",
     "u": "https://purchasing.co.riverside.ca.us/bidding-opportunities",
-    "d": "Free, no-bond registration. County of Riverside informal-projects prequalification list, due 12/31/2026."
+    "d": "Free, no-bond registration."
+  },
+  {
+    "t": "go",
+    "r": 18,
+    "n": "CSU San Marcos &mdash; Blanket Minor Capital Advertisement (JR070126)",
+    "a": "CSU San Marcos",
+    "due": "2027-06-30",
+    "val": "Up to $1,157,000 per project",
+    "trade": "Ongoing vendor-list registration",
+    "u": "https://www.constructionbidsource.com/state/california/county/san-diego/835372",
+    "d": "Free registration, Class B named."
+  },
+  {
+    "t": "go",
+    "r": 19,
+    "n": "CUPCCAA informal bidders lists &mdash; San Diego County (five agencies)",
+    "a": "SDCCD, Poway USD, City of Poway, City of Oceanside, Grossmont Union HSD",
+    "due": "",
+    "val": "Work up to $220,000 per job, awarded off the list",
+    "trade": "All classifications",
+    "u": "https://www.sdccd.edu/departments/operations/Doing-Business-with-SDCCD.aspx",
+    "d": "Five open, free registrations."
+  },
+  {
+    "t": "go",
+    "r": 20,
+    "n": "CUPCCAA informal bidders lists &mdash; Riverside County (three agencies)",
+    "a": "Corona-Norco USD, City of Corona, Lake Elsinore USD",
+    "due": "",
+    "val": "Work up to $220,000 per job, awarded off the list",
+    "trade": "All trade categories",
+    "u": "https://www.cnusd.k12.ca.us/departments/business_services/purchasing/cupccaa",
+    "d": "Three free registrations."
+  },
+  {
+    "t": "go",
+    "r": 21,
+    "n": "Informal bidders lists &mdash; Los Angeles County (three agencies)",
+    "a": "Long Beach City College, El Camino College, LAUSD",
+    "due": "",
+    "val": "LBCC to $220,000, El Camino to $96,700, LAUSD A/B letter to $14,999",
+    "trade": "All trades",
+    "u": "https://apps.lbcc.edu/contractors/",
+    "d": "Three rolling registrations."
+  },
+  {
+    "t": "go",
+    "r": 22,
+    "n": "Contractor Pre-Qualification + General Vendor List, FY 2026-2027",
+    "a": "City of Palm Desert (Riverside County)",
+    "due": "2027-06-30",
+    "val": "Vendor list up to $250,000 for the fiscal year",
+    "trade": "Both applications name Class A and Class B",
+    "u": "https://procurement.opengov.com/portal/cityofpalmdesert",
+    "d": "Two free registrations."
+  },
+  {
+    "t": "go",
+    "r": 118,
+    "n": "CUPCCAA / Informal Bidders List Registration",
+    "a": "City of Del Mar (San Diego County)",
+    "due": "",
+    "val": "Free registration; work up to $220,000 per job",
+    "trade": "All classifications",
+    "u": "https://www.delmar.ca.us",
+    "d": "Free, no-bond registration."
+  },
+  {
+    "t": "go",
+    "r": 119,
+    "n": "Qualified Bidders List Registration",
+    "a": "City of Solana Beach (San Diego County)",
+    "due": "",
+    "val": "Free registration; work up to $220,000 per job",
+    "trade": "All classifications",
+    "u": "https://www.cityofsolanabeach.org",
+    "d": "Free, no-bond registration."
+  },
+  {
+    "t": "go",
+    "r": 120,
+    "n": "CUPCCAA / Quality Bidders Registration",
+    "a": "Sweetwater Union High School District (San Diego County)",
+    "due": "",
+    "val": "Free registration; informal-bid tier $60,000-$200,000",
+    "trade": "All classifications",
+    "u": "https://www.sweetwaterschools.org",
+    "d": "Free, no-bond registration."
+  },
+  {
+    "t": "go",
+    "r": 123,
+    "n": "Blanket Advertisement for Various Minor Capital Projects &mdash; License B",
+    "a": "San Diego State University",
+    "due": "2026-10-12",
+    "val": "Free registration; individual projects $0-$1,157,000",
+    "trade": "Ongoing vendor-list registration; explicitly names Class B",
+    "u": "https://www.constructionbidsource.com/state/california/county/san-diego/842849",
+    "d": "Free registration, Class B named explicitly."
+  },
+  {
+    "t": "watch",
+    "r": 95,
+    "n": "Riverside Centre Auxiliary Buildings B & C Roof Replacement",
+    "a": "County of Riverside (tentatively)",
+    "due": "",
+    "val": "Reads well under $220,000",
+    "trade": "Roofing, single-trade prime subbed to C-39",
+    "u": "https://ceqanet.lci.ca.gov/2026010393",
+    "d": "Bonding and license unconfirmed by phone; held at watch since size suggests possible bond-free."
+  },
+  {
+    "t": "watch",
+    "r": 121,
+    "n": "Bus Operations East/West HVAC and Fan Replacements",
+    "a": "North County Transit District (San Diego County)",
+    "due": "2026-10-12",
+    "val": "Base $175,300 + Option $122,050",
+    "trade": "HVAC, single-trade prime subbed to C-20",
+    "u": "https://www.constructionbidsource.com/state/california/county/san-diego/842714",
+    "d": "Bonding amount and license unconfirmed by phone."
+  },
+  {
+    "t": "watch",
+    "r": 122,
+    "n": "Roofing Services, Twin Oaks Flow Regulatory Structure",
+    "a": "San Diego County Water Authority",
+    "due": "2026-10-15",
+    "val": "Plausibly small",
+    "trade": "Roofing, single-trade prime subbed to C-39",
+    "u": "https://www.constructionbidsource.com/state/california/county/san-diego/842722",
+    "d": "Bonding amount and license unconfirmed by phone."
+  },
+  {
+    "t": "watch",
+    "r": 124,
+    "n": "Concrete Flatwork and Walkway Replacement at the District Office",
+    "a": "El Segundo Unified School District (Los Angeles County)",
+    "due": "2026-09-24",
+    "val": "Small scope",
+    "trade": "Concrete, single-trade prime subbed to C-8",
+    "u": "https://www.constructionbidsource.com/state/california/county/los-angeles/836455",
+    "d": "No bonding boilerplate found - positive signal, unconfirmed."
+  },
+  {
+    "t": "watch",
+    "r": 125,
+    "n": "Fleet Maintenance Building Refurbishment - Contractor Pre-Qualification",
+    "a": "City of Carlsbad (San Diego County)",
+    "due": "2026-10-13",
+    "val": "Prequalification phase",
+    "trade": "Fleet maintenance building refurbishment",
+    "u": "https://www.constructionbidsource.com/state/california/county/san-diego/842948",
+    "d": "Submit SOQ regardless - free to prequalify."
+  },
+  {
+    "t": "watch",
+    "r": 126,
+    "n": "Gingrich Park Basketball Court Remodel",
+    "a": "City of West Covina (Los Angeles County)",
+    "due": "2026-09-24",
+    "val": "Not disclosed",
+    "trade": "Basketball court remodel",
+    "u": "https://www.constructionbidsource.com/state/california/county/los-angeles/843489",
+    "d": "No bonding language found - positive signal. Walk was 9/17, attendance unconfirmed."
+  },
+  {
+    "t": "sub",
+    "r": 41,
+    "n": "Albert Einstein Charter ES Modernization",
+    "a": "Prime: Erickson-Hall Construction",
+    "due": "",
+    "val": "~$15M total",
+    "trade": "Multi-trade package",
+    "u": "https://www.constructionbidsource.com/state/california/county/san-diego/832033",
+    "d": "Sub-only; prime carries the bond."
+  },
+  {
+    "t": "sub",
+    "r": 42,
+    "n": "Loma Portal Elementary School Whole Site Modernization (GMP No. 1)",
+    "a": "Prime/CM: C.W. Driver Companies",
+    "due": "2026-09-24",
+    "val": "$16,800,000",
+    "trade": "CMAR GMP package, multi-trade",
+    "u": "https://www.constructionbidsource.com/state/california/county/san-diego/840366",
+    "d": "Sub-only; CM carries the bond."
   }
 ]
