@@ -19,7 +19,128 @@
     "val": "$395,000",
     "trade": "Stone and concrete stair reconstruction",
     "u": "https://www.constructionbidsource.com/state/california/county/san-diego/839267",
-    "d": "Filter 11 - bonding likely required at this value, MPX cannot get bonded. Blocked."
+    "d": "Filter 11 - bonding likely required at this value, MPX cannot get bonded currently. Blocked; revisit if bonding capacity changes."
+  },
+  {
+    "t": "blocked",
+    "r": 8,
+    "n": "On-Call General Contractor Services (26-18)",
+    "a": "City of Palm Springs (Riverside County)",
+    "due": "2026-09-17",
+    "val": "Not published",
+    "trade": "On-call building repairs, multi-trade",
+    "u": "https://www.constructionbidsource.com/state/california/county/riverside/838995",
+    "d": "Filter 10 - ongoing maintenance/on-call, excluded by policy."
+  },
+  {
+    "t": "blocked",
+    "r": 9,
+    "n": "Generator and Related Hardware Services (2026)",
+    "a": "City of Cerritos (Los Angeles County)",
+    "due": "2026-09-02",
+    "val": "Not listed",
+    "trade": "As-needed generator services",
+    "u": "https://www.constructionbidsource.com/state/california/county/los-angeles/838287",
+    "d": "Filter 10 - ongoing maintenance/on-call, excluded by policy."
+  },
+  {
+    "t": "blocked",
+    "r": 133,
+    "n": "Two Ton Chiller & Pump Replacement",
+    "a": "State of California Dept. of General Services, Chula Vista (San Diego County)",
+    "due": "2026-10-21",
+    "val": "$1,405,000",
+    "trade": "Chiller/pump replacement, single-trade prime subbed to C-20",
+    "u": "https://www.constructionbidsource.com/state/california/county/san-diego/843270",
+    "d": "New find 18 Sept. Bonds required verbatim. Filter 11 blocked."
+  },
+  {
+    "t": "blocked",
+    "r": 134,
+    "n": "Sierra Vista Playground Replacement",
+    "a": "City of Monterey Park (Los Angeles County)",
+    "due": "2026-09-30",
+    "val": "Not disclosed",
+    "trade": "Playground replacement, subbed to C-27/C-8",
+    "u": "https://www.constructionbidsource.com/state/california/county/los-angeles/842565",
+    "d": "New find 18 Sept. Bonds required verbatim. Filter 11 blocked."
+  },
+  {
+    "t": "blocked",
+    "r": 135,
+    "n": "Ronald Reagan UCLA Medical Center 4th Floor Reconfiguration (907518)",
+    "a": "UCLA / UCLA Health (Los Angeles County)",
+    "due": "2026-09-30",
+    "val": "67,300 sq ft, plausibly over $5M",
+    "trade": "Multi-trade interior renovation",
+    "u": "https://www.constructionbidsource.com/state/california/county/los-angeles/843050",
+    "d": "New find 18 Sept. CMAR delivery (filter 9), plausibly oversized (filter 3), bonds required (filter 11). Triple-blocked."
+  },
+  {
+    "t": "blocked",
+    "r": 136,
+    "n": "Admin Building Demolition Project",
+    "a": "California State University, Los Angeles (CSULA) (Los Angeles County)",
+    "due": "2026-10-05",
+    "val": "$9,000,000",
+    "trade": "Complete building demolition + hazmat abatement",
+    "u": "https://www.constructionbidsource.com/state/california/county/los-angeles/843120",
+    "d": "New find 18 Sept. Over $5M ceiling (filter 3), no named prime yet for sub-only. Watch for award notice."
+  },
+  {
+    "t": "blocked",
+    "r": 137,
+    "n": "Lambert Park Gymnasium Roof Replacement",
+    "a": "City of El Monte (Los Angeles County)",
+    "due": "2026-10-08",
+    "val": "Not disclosed, ~19,000 sq ft",
+    "trade": "Roofing, single-trade prime subbed to C-39",
+    "u": "https://www.constructionbidsource.com/state/california/county/los-angeles/842949",
+    "d": "New find 18 Sept. Bonds required verbatim. Filter 11 blocked."
+  },
+  {
+    "t": "blocked",
+    "r": 138,
+    "n": "Veteran's Memorial Building Window Replacement Project",
+    "a": "City of Inglewood (Los Angeles County)",
+    "due": "2026-10-08",
+    "val": "Not disclosed",
+    "trade": "Storefront window/glazing replacement",
+    "u": "https://www.constructionbidsource.com/state/california/county/los-angeles/843326",
+    "d": "New find 18 Sept. Bonds required verbatim. Filter 11 blocked."
+  },
+  {
+    "t": "blocked",
+    "r": 139,
+    "n": "North Oaks Park Plumbing Project",
+    "a": "City of Santa Clarita (Los Angeles County)",
+    "due": "2026-10-13",
+    "val": "$180,000",
+    "trade": "Domestic water piping replacement, subbed to C-36",
+    "u": "https://www.constructionbidsource.com/state/california/county/los-angeles/842954",
+    "d": "New find 18 Sept. Bonds required verbatim despite under $220K. Filter 11 blocked."
+  },
+  {
+    "t": "blocked",
+    "r": 140,
+    "n": "Artesia Botanical Garden",
+    "a": "City of Artesia (Los Angeles County)",
+    "due": "2026-10-12",
+    "val": "Not disclosed, 1.44-acre site",
+    "trade": "New community center + landscaping, vertical + multi-trade",
+    "u": "https://www.constructionbidsource.com/state/california/county/los-angeles/841208",
+    "d": "New find 18 Sept. Mandatory walk 9/15 passed (filter 7) and bonds required (filter 11)."
+  },
+  {
+    "t": "blocked",
+    "r": 141,
+    "n": "Two Bellflower park/facility jobs &mdash; walk passed + bonds required",
+    "a": "City of Bellflower (Los Angeles County)",
+    "due": "2026-09-22",
+    "val": "$664,100 and $125,000",
+    "trade": "Park improvements; restroom remodel",
+    "u": "https://www.constructionbidsource.com/state/california/county/los-angeles/843289",
+    "d": "New finds 18 Sept, both resolved dead same scan: walks passed (filter 7), bonds required (filter 11)."
   },
   {
     "t": "go",
@@ -30,7 +151,7 @@
     "val": "Two lists: all projects under $220,000, and an Exclusive Small Projects list under $25,000",
     "trade": "60+ trade categories; Class B is expressly among the accepted classifications",
     "u": "https://purchasing.co.riverside.ca.us/bidding-opportunities",
-    "d": "Free, no-bond registration."
+    "d": "Free, no-bond registration. Best single hour to spend; County contacts prequalified contractors directly."
   },
   {
     "t": "go",
@@ -41,7 +162,7 @@
     "val": "Up to $1,157,000 per project",
     "trade": "Ongoing vendor-list registration",
     "u": "https://www.constructionbidsource.com/state/california/county/san-diego/835372",
-    "d": "Free registration, Class B named."
+    "d": "Free registration, Class B named explicitly."
   },
   {
     "t": "go",
